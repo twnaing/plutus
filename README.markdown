@@ -1,6 +1,8 @@
 Plutus
 =================
-[![Build Status](https://travis-ci.org/mbulat/plutus.svg?branch=master)](https://travis-ci.org/mbulat/plutus) [![Coverage Status](https://coveralls.io/repos/github/mbulat/plutus/badge.svg?branch=master)](https://coveralls.io/github/mbulat/plutus?branch=master)
+upstream: [![Build Status](https://travis-ci.org/mbulat/plutus.svg?branch=master)](https://travis-ci.org/mbulat/plutus) [![Coverage Status](https://coveralls.io/repos/github/mbulat/plutus/badge.svg?branch=master)](https://coveralls.io/github/mbulat/plutus?branch=master)
+
+this fork: [![Build Status](https://travis-ci.org/twnaing/plutus.svg?branch=master)](https://travis-ci.org/twnaing/plutus) [![Coverage Status](https://coveralls.io/repos/github/twnaing/plutus/badge.svg?branch=master)](https://coveralls.io/github/twnaing/plutus?branch=master)
 
 The Plutus plugin is a Ruby on Rails Engine which provides a double entry accounting system for your application.
 
